@@ -29,7 +29,7 @@ https://cyan-galoshes.cyclic.app/
   Entering login admin point (important)
   using this email and pass login into project please
   ``` 
-  email : wankhadeabhi3@gmail.com
+  email : cossin322@gmail.com
   password : 123
   ```
   
