@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mihir wankhade",
+  "author": "avnish rai",
   "license": "ISC",
   "dependencies": {
     "connect-mongo": "^5.0.0",
